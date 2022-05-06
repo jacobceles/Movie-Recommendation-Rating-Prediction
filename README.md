@@ -1,4 +1,4 @@
-# Movie-Recommendation-Rating-Prediction
+# Movie Recommendation & Rating Prediction
 In this project, we have used the [MovieLens 100k dataset](https://grouplens.org/datasets/movielens/100k/) 
 to compare different algorithms for rating prediction, and also create a movie recommendation system on top of it. [Surprise](http://surpriselib.com/) is used to develop the models, and the dataset itself is open for public use since 1998, and has 100,000 ratings from 943 users on 1682 movies. Each user 
 has rated at least 20 movies, and simple demographic info for the users (age, gender, occupation, zip) are given.
